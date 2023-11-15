@@ -1,0 +1,30 @@
+body {
+  font-family: "Arial", "Helvetica", "sans-serif";
+  background-color: darkgrey;
+}
+nav ul{
+  background-image: linear-gradient(yellow,red);
+  display: -webkit-flex;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  list-style-type: none;
+}
+nav ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+#Welcome {
+  background-color: #f2a900;
+  margin: 0;
+  font-size: 50px;
+  
+}
+p {
+  
+  font-size: 20px;
+  background-color: #da291c;
+  margin: 0;
+  padding: 25px;
+}
