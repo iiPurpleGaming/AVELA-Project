@@ -238,6 +238,8 @@ http://www.templatemo.com/tm-515-eatery
   .custom-navbar .navbar-nav.navbar-right li a {
     padding-right: 12px;
     padding-left: 12px;
+    color:#f9e806;
+    background: color: #ce3232;
   }
 
   .custom-navbar .navbar-nav.navbar-right .section-btn {
@@ -406,15 +408,15 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .slider .item-first {
-    background-image: url(../images/slider-image1.jpg);
+    background-image: url('../images/Image1.jpg');
   }
 
   .slider .item-second {
-    background-image: url(../images/slider-image2.jpg);
+    background-image: url('../images/Image2.jpg');
   }
 
   .slider .item-third {
-    background-image: url(../images/slider-image3.jpg);
+    background-image: url('../images/Image3.jpg');
   }
 
   .slider .item-second .section-btn {
