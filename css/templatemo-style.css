@@ -209,7 +209,7 @@ http://www.templatemo.com/tm-515-eatery
   /*---------------------------------------
       MENU              
   -----------------------------------------*/
-  #menu {background-color:#c5e86c;}
+  #menu {background-color:#ecec6f;}
 
   .custom-navbar {
     border: none;
@@ -273,7 +273,7 @@ http://www.templatemo.com/tm-515-eatery
 
   .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #fce300;
+    color: rgb(203,115,80);
   }
 
   .custom-navbar .navbar-nav > li > a:hover,
@@ -319,7 +319,7 @@ http://www.templatemo.com/tm-515-eatery
     }
 
     .top-nav-collapse .nav li a {
-      color: #575757;
+      color: #cc2424;
     }
 
     .top-nav-collapse .nav .section-btn a {
@@ -649,6 +649,7 @@ http://www.templatemo.com/tm-515-eatery
   #testimonial {
     background: url('../images/4980557_5461996_pm-500x709 (2).jpg') center center no-repeat;
     background-size: cover;
+    background-color: rgb(203,115,80);
   }
 
   #testimonial .owl-dots {
