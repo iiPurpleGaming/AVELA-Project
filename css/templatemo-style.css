@@ -209,7 +209,7 @@ http://www.templatemo.com/tm-515-eatery
   /*---------------------------------------
       MENU              
   -----------------------------------------*/
-  #menu {background-color:#c5e86c;}
+  #menu {background-color:#ecec6f;}
 
   .custom-navbar {
     border: none;
@@ -238,6 +238,8 @@ http://www.templatemo.com/tm-515-eatery
   .custom-navbar .navbar-nav.navbar-right li a {
     padding-right: 12px;
     padding-left: 12px;
+    color:#f9e806;
+    background: color: #ce3232;
   }
 
   .custom-navbar .navbar-nav.navbar-right .section-btn {
@@ -273,7 +275,7 @@ http://www.templatemo.com/tm-515-eatery
 
   .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #fce300;
+    color: rgb(203,115,80);
   }
 
   .custom-navbar .navbar-nav > li > a:hover,
@@ -319,7 +321,7 @@ http://www.templatemo.com/tm-515-eatery
     }
 
     .top-nav-collapse .nav li a {
-      color: #575757;
+      color: #cc2424;
     }
 
     .top-nav-collapse .nav .section-btn a {
@@ -406,15 +408,15 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .slider .item-first {
-    background-image: url(../images/slider-image1.jpg);
+    background-image: url('../images/Image1.jpg');
   }
 
   .slider .item-second {
-    background-image: url(../images/slider-image2.jpg);
+    background-image: url('../images/Image2.jpg');
   }
 
   .slider .item-third {
-    background-image: url(../images/slider-image3.jpg);
+    background-image: url('../images/Image3.jpg');
   }
 
   .slider .item-second .section-btn {
@@ -649,6 +651,7 @@ http://www.templatemo.com/tm-515-eatery
   #testimonial {
     background: url('../images/4980557_5461996_pm-500x709 (2).jpg') center center no-repeat;
     background-size: cover;
+    background-color: rgb(203,115,80);
   }
 
   #testimonial .owl-dots {
